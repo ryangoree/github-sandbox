@@ -1,3 +1,1 @@
 # GitHub Sandbox
-
-foo
