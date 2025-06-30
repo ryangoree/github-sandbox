@@ -2,6 +2,9 @@
 
 ## Conventional Commits
 
+The following commit message prefixes will render as tags when using the
+[Refined GitHub](https://github.com/refined-github/refined-github) extension.
+
 - ✅ **feat**: (new feature for the user, not a new feature for build script)
 - ✅ **fix**: (bug fix for the user, not a fix to a build script)
 - ✅ **docs**: (changes to the documentation)
@@ -11,4 +14,4 @@
 - ✅ **chore**: (updating grunt tasks etc; no production code change)
 - ✅ **build**:
 - ✅ **ci**:
-- **perf**:
+- ✅ **perf**:
